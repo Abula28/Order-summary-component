@@ -1,0 +1,39 @@
+@media (max-width: 650px) {
+  .component {
+    width: 327px;
+    height: 567px;
+    top: 100px;
+  }
+  .component .music-flatline {
+    height: 160px;
+  }
+  .component .component-header {
+    margin-top: 45%;
+  }
+  .component .component-header h2 {
+    font-size: 22px;
+  }
+  .component .component-p {
+    font-size: 15px;
+  }
+  .component .pay-card {
+    width: 279px;
+    height: 81px;
+  }
+  .component .name-price p {
+    font-size: 15px;
+  }
+  .component .name-price button {
+    margin-right: 16px;
+  }
+  .component .name-price button a {
+    font-size: 13px;
+  }
+  .component .process {
+    width: 279px;
+    height: 50px;
+  }
+  .component .cancel {
+    margin-top: 24px;
+  }
+}/*# sourceMappingURL=responsive.css.map */

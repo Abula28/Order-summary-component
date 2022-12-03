@@ -1,0 +1,48 @@
+@media(max-width: 650px){
+    .component{
+        width: 327px;
+        height: 567px;
+        top: 100px;
+        .music-flatline{
+            height: 160px;
+        }
+
+        .component-header{
+            margin-top: 45%;
+            h2{
+                font-size: 22px;
+            }
+        }
+
+        .component-p{
+            font-size: 15px;
+        }
+
+        
+        .pay-card{
+            width: 279px;
+            height: 81px;
+        }
+
+        .name-price{
+            p{
+                font-size: 15px;
+            }
+            button{
+                margin-right: 16px;
+                a{
+                    font-size: 13px;
+                }
+            }
+        }
+
+        .process{
+            width: 279px;
+            height: 50px;
+        }
+
+        .cancel{
+            margin-top: 24px;
+        }
+    }
+}
